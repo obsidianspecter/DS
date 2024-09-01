@@ -1,8 +1,4 @@
-Let's enhance the README further by incorporating some HTML elements to make it more visually appealing. I'll also fill in all the placeholders with relevant content. This README will combine Markdown and HTML to create an attractive layout.
 
-### Enhanced and Fully Populated README Template
-
-```markdown
 <h1 align="center">
   <img src="https://your-logo-link.gif" alt="DS Project Logo" width="200"><br>
   DS Project
